@@ -12,7 +12,4 @@ I enjoy building small tools that sit at the intersection of
 - Human behavior
 
 ## ⚙️ Tools
-Python • JavaScript • Git • Linux
-
-## 🌱 Philosophy
-> Good code is like nature: simple, balanced, and quietly powerful.
+Python • JavaScript  • C#  • Shell • Git • Linux
